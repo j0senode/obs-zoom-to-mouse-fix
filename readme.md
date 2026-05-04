@@ -3,7 +3,6 @@
 
 ---
 
-## Improvements (optional if you added them)
 
 - Better support for non-Display Capture sources
 - More stable zoom behavior across different setups
